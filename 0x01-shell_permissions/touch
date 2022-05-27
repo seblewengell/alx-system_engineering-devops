@@ -1,0 +1,3 @@
+#!/bin/bash 13-change_group
+chgrp holberton hello 13-change_group
+chgrp my_dir hello 13-change_group
